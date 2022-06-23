@@ -1,3 +1,6 @@
+objective:
+ create PCB for tray mount Sidewinder (hhkb blockers)
+
 issues:
  PCB has unique edge cuts and tray mount holes
   stil waiting for pcb
